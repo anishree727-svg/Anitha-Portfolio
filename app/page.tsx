@@ -218,7 +218,7 @@ export default function Home() {
       description:
         "Designed and developed a responsive restaurant website MVP with a modern customer-focused interface, structured restaurant and menu presentation, mobile-friendly layouts and interactive sections.",
       tech: ["Restaurant Website", "Responsive Design", "Netlify"],
-      link: "https://22contanzaa.netlify.app/",
+      link: "https://22constanzaaa.netlify.app/",
       details:
         "Freelance web development project for a restaurant. Designed and developed a responsive restaurant website MVP with structured restaurant and menu presentation, mobile-friendly layouts and interactive sections, then deployed the MVP using Netlify.",
     },
